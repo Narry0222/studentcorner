@@ -16,7 +16,7 @@ background-size:cover;
 }
 th{
 padding:20px;
-font-size:20px;
+font-size:18px;
 background:#333333;
 color:#FFFFFF;
 }
